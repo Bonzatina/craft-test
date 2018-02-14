@@ -16,7 +16,7 @@ return array(
 	'user' => 'root',
 
 	// The database password to connect with.
-	'password' => '',
+	'password' => '48x2v',
 
 	// The name of the database to select.
 	'database' => 'happylager',
