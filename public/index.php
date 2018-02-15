@@ -5,8 +5,8 @@ $craftPath = '../craft';
 
 // Do not edit below this line
 $path = rtrim($craftPath, '/').'/app/index.php';
-//define('CRAFT_SITE_URL', 'http://happylager.test/');
-define('CRAFT_SITE_URL', 'https://craft-test-b.herokuapp.com/');
+define('CRAFT_SITE_URL', 'http://happylager.test/');
+//define('CRAFT_SITE_URL', 'https://craft-test-b.herokuapp.com/');
 
 if (!is_file($path))
 {
